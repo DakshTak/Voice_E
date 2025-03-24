@@ -1,2 +1,2 @@
 # Voice_E
-This is a minature project for a smart devices which can be controlled by voice.
+Voice_E is a miniature project for smart devices that can be controlled by voice.
